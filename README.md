@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @YuMyeongJun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-YuMyeongJun/YuMyeongJun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Growth oriented Engineer 🔥
+I am a front-end and back-end engineer working for a SI - solutions company. 🚀
+Now I work at moornmo.
