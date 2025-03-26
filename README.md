@@ -1,5 +1,4 @@
 # 잼민이의 프론트엔드 성장기
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuMyeongJun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # My Skill
 <div style="display: flex;">
@@ -12,7 +11,7 @@
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuMyeongJun&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuMyeongJun)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 <a href="https://www.linkedin.com/in/%EB%AA%85%EC%A4%80-%EC%9C%A0-030814210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/></a>
