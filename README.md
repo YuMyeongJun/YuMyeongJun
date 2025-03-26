@@ -10,6 +10,7 @@
    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuMyeongJun&layout=compact)](https://github.com/YuMyeongJun/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuMyeongJun)](https://github.com/anuraghazra/github-readme-stats)
